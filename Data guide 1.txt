@@ -82,70 +82,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4ncrP.png",
+      "title": "ai chat 1",
+        "text_Content": "AI chat, also known as chatbots or virtual assistants, is a software application that uses artificial intelligence (AI) to simulate human-like conversations with users. These chatbots can be used in a variety of contexts, including customer service, sales, and personal assistants.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4nKX4.jpg",
+      "title": "ai chat 2",
+        "text_Content": "The use of AI chat has become increasingly popular in recent years due to the rise of messaging apps and the need for businesses to provide instant support to customers. According to a report by Grand View Research, the global chatbot market size was valued at USD 2.6 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 24.3% from 2020 to 2027.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4oz6N.jpg",
+      "title": "ai chat 3",
+        "text_Content": "The use of AI chat has become increasingly popular in recent years due to the rise of messaging apps and the need for businesses to provide instant support to customers. According to a report by Grand View Research, the global chatbot market size was valued at USD 2.6 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 24.3% from 2020 to 2027.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4nz7e.jpg",
+      "title": "ai chat 4",
+        "text_Content": "The use of AI chat has become increasingly popular in recent years due to the rise of messaging apps and the need for businesses to provide instant support to customers. According to a report by Grand View Research, the global chatbot market size was valued at USD 2.6 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 24.3% from 2020 to 2027.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4nTmb.jpg",
+      "title": "ai chat 5",
+        "text_Content": "Another advantage of AI chat is the ability to provide personalized support to customers. AI chat can use data analytics and machine learning algorithms to analyze customer behavior and preferences, allowing businesses to tailor their responses to each individual customer.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4nQa9.jpg",
+      "title": "ai chat 6",
+        "text_Content": "Another advantage of AI chat is the ability to provide personalized support to customers. AI chat can use data analytics and machine learning algorithms to analyze customer behavior and preferences, allowing businesses to tailor their responses to each individual customer.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HX4nVTJ.jpg",
+      "title": "ai chat 7",
+        "text_Content": "However, there are also some challenges associated with the use of AI chat. One of the main challenges is ensuring that the chatbot is able to understand and respond to a wide range of customer queries in a way that is natural and conversational.",
+        "text_Content_1": ""
 
 
 
