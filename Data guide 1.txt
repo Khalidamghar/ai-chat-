@@ -3,39 +3,39 @@
   
      
 
-      "banner_type_1":"admob",
-      "inter_type_1":"admob",
+      "banner_type_1":"unity",
+      "inter_type_1":"unity",
       "inter_or_reward_1":"inter",
-      "native_type_1":"admob",
-      "reward_type_1":"admob",
+      "native_type_1":"unity",
+      "reward_type_1":"unity",
       "native_or_mrec_1":"native",
 
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
+      "banner_type_2":"unity",
+      "inter_type_2":"unity",
       "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
+      "native_type_2":"unity",
+      "reward_type_2":"unity",
       "native_or_mrec_2":"native",
 
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
+     "banner_type_3":"unity",
+      "inter_type_3":"unity",
       "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
+      "native_type_3":"unity",
+      "reward_type_3":"unity",
       "native_or_mrec_3":"native",
 
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
+      "banner_type_4":"unity",
+      "inter_type_4":"unity",
       "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
+      "native_type_4":"unity",
+      "reward_type_4":"unity",
       "native_or_mrec_4":"native",
 
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
+       "banner_type_5":"unity",
+      "inter_type_5":"unity",
       "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
+      "native_type_5":"unity",
+      "reward_type_5":"unity",
       "native_or_mrec_5":"native",
 
      
@@ -85,7 +85,7 @@
       "image_link": "https://iili.io/HX4ncrP.png",
       "title": "ai chat 1",
         "text_Content": "AI chat, also known as chatbots or virtual assistants, is a software application that uses artificial intelligence (AI) to simulate human-like conversations with users. These chatbots can be used in a variety of contexts, including customer service, sales, and personal assistants.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
@@ -95,7 +95,7 @@
       "image_link": "https://iili.io/HX4nKX4.jpg",
       "title": "ai chat 2",
         "text_Content": "The use of AI chat has become increasingly popular in recent years due to the rise of messaging apps and the need for businesses to provide instant support to customers. According to a report by Grand View Research, the global chatbot market size was valued at USD 2.6 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 24.3% from 2020 to 2027.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
@@ -105,7 +105,7 @@
       "image_link": "https://iili.io/HX4oz6N.jpg",
       "title": "ai chat 3",
         "text_Content": "The use of AI chat has become increasingly popular in recent years due to the rise of messaging apps and the need for businesses to provide instant support to customers. According to a report by Grand View Research, the global chatbot market size was valued at USD 2.6 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 24.3% from 2020 to 2027.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
@@ -115,7 +115,7 @@
       "image_link": "https://iili.io/HX4nz7e.jpg",
       "title": "ai chat 4",
         "text_Content": "The use of AI chat has become increasingly popular in recent years due to the rise of messaging apps and the need for businesses to provide instant support to customers. According to a report by Grand View Research, the global chatbot market size was valued at USD 2.6 billion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 24.3% from 2020 to 2027.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
@@ -125,7 +125,7 @@
       "image_link": "https://iili.io/HX4nTmb.jpg",
       "title": "ai chat 5",
         "text_Content": "Another advantage of AI chat is the ability to provide personalized support to customers. AI chat can use data analytics and machine learning algorithms to analyze customer behavior and preferences, allowing businesses to tailor their responses to each individual customer.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
@@ -135,7 +135,7 @@
       "image_link": "https://iili.io/HX4nQa9.jpg",
       "title": "ai chat 6",
         "text_Content": "Another advantage of AI chat is the ability to provide personalized support to customers. AI chat can use data analytics and machine learning algorithms to analyze customer behavior and preferences, allowing businesses to tailor their responses to each individual customer.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
@@ -145,7 +145,7 @@
       "image_link": "https://iili.io/HX4nVTJ.jpg",
       "title": "ai chat 7",
         "text_Content": "However, there are also some challenges associated with the use of AI chat. One of the main challenges is ensuring that the chatbot is able to understand and respond to a wide range of customer queries in a way that is natural and conversational.",
-        "text_Content_1": ""
+        "text_Content_1": "."
 
 
 
